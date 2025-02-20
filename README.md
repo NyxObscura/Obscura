@@ -23,8 +23,8 @@ Whether you're building admin panels, project management systems, CMS, CRM, or e
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/NyxObscura/obscura.git
-   cd obscura
+   git clone https://github.com/NyxObscura/Obscura.git
+   cd Obscura
    ```
 
 2. **Install dependencies:**
