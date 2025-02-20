@@ -33,18 +33,6 @@ Whether you're building admin panels, project management systems, CMS, CRM, or e
    npm install
    ```
 
-3. **Run the development server:**
-
-   ```bash
-   npm start
-   ```
-
-4. **Build for production:**
-
-   ```bash
-   npm run build
-   ```
-
 ## Demo
 
 Check out the live demo here:
