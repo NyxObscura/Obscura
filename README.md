@@ -1,8 +1,66 @@
-# Skydash
+# Obscura
 
-Skydash is the latest Bootstrap admin template from BootstrapDash. This template has been meticulously crafted to ensure the best possible experience for developers and users alike. This admin template is super easy to set up, modify and use. The clean design minimizes clutter and improves the overall user experience. Skydash is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM. It comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump-starting your project.
+**Obscura** is a modern, lightweight admin template designed with simplicity and efficiency in mind. Created to provide developers with a seamless experience, Obscura focuses on clean design, optimized performance, and flexibility for a wide range of applications.
 
-<h1>Demo</h1>
-Click below to check out the live demo.
+This template is intuitive to set up, modify, and use, with a clutter-free interface that enhances productivity and usability. Obscura delivers all the essential features you need without overwhelming you with unnecessary components.
 
-[![N|Solid](preview.jpg)](https://bootstrapdash.com/demo/skydash-free/template/)
+Whether you're building admin panels, project management systems, CMS, CRM, or e-commerce platforms, Obscura's modular and well-commented codebase ensures easy customization and smooth development.
+
+## Features
+
+- Sleek and minimalist UI
+- Fully responsive and mobile-friendly
+- Modular architecture for easy scaling
+- Clean, well-commented code for hassle-free customization
+- Cross-browser compatibility
+- Dark and light modes
+- Built-in authentication templates
+- Charting and data visualization components
+- Form elements and validation
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/NyxObscura/obscura.git
+   cd obscura
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+
+   ```bash
+   npm start
+   ```
+
+4. **Build for production:**
+
+   ```bash
+   npm run build
+   ```
+
+## Demo
+
+Check out the live demo here:
+
+[![N|Solid](preview.jpg)](https://obscura.icu)
+
+## Contributing
+
+We welcome contributions! Please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+**Obscura** — Designed for developers who value clean code and intuitive design.
+
+
