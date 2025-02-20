@@ -1,7 +1,7 @@
 {
-  "name": "SkyDash_admin",
-  "version": "1.2.1",
-  "description": "",
+  "name": "Obscura",
+  "version": "1.0.0",
+  "description": "https://obscura.icu",
   "main": "index.html",
   "dependencies": {
     "@mdi/font": "^3.6.95",
